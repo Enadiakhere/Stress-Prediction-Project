@@ -5,8 +5,8 @@ This study comprises of 35 volunteer participants who performed three different 
 ## Dataset Files
 
   *|-- Processed_data
-        |-----	heartrate_resprate_timestamps_labels folder
-	|-----	Improved_Combined_hr_rsp_binary_PX.csv (contain information of heart rates and respiratory rates along with timestamps and labels (for nonstress/baseline and 1 for stress task duration). Here X is participant number) 
+        *|-----	heartrate_resprate_timestamps_labels folder
+	*|-----	Improved_Combined_hr_rsp_binary_PX.csv (contain information of heart rates and respiratory rates along with timestamps and labels (for nonstress/baseline and 1 for stress task duration). Here X is participant number) 
 	|-----	Time_logs.xlsx (contain date and start/end time of each task for each participant, Irish standard time)
 	|-----	heartrate_timestamps_labels folder
 	|-----	PX_comb_binary.csv (contain information of heart rates along with timestamps and labels (for nonstress/baseline and 1 for stress task duration). Here X is participant number) 
